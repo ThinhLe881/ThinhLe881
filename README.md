@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Thinh 👋
 
-<!--
-**ThinhLe881/ThinhLe881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ThinhLe881&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinhLe881&layout=compact" />
 
-Here are some ideas to get you started:
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm passionate in software development and data science!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other software developers
+- 🥅 2022 Goals: Learn more about web development and cloud computing
+
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/thinhle201#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/thinhle201#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/thinhle201#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/thinhle201#gh-dark-mode-only)
