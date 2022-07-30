@@ -3,7 +3,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ThinhLe881&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinhLe881&layout=compact" />
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## I'm passionate in software development and data science!!
 
