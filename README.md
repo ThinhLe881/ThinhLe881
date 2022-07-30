@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/thinhle201#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/thinhle201#gh-dark-mode-only)
+[![website](./images/linkedin-light.svg)](https://linkedin.com/in/thinhle201#gh-light-mode-only)
+[![website](./images/linkedin-dark.svg)](https://linkedin.com/in/thinhle201#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/thinhle201#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/thinhle201#gh-dark-mode-only)
+[![website](./images/twitter-light.svg)](https://twitter.com/thinhle201#gh-light-mode-only)
+[![website](./images/twitter-dark.svg)](https://twitter.com/thinhle201#gh-dark-mode-only)
