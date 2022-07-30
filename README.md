@@ -20,8 +20,8 @@
 
 ### Connect with me:
 
-[![website](./images/email-light.svg)](mailto:thinhleminh201@gmail.com)
-[![website](./images/email-dark.svg)](mailto:thinhleminh201@gmail.com)
+[![website](./images/email-light.svg)](mailto:thinhleminh201@gmail.com#gh-light-mode-only)
+[![website](./images/email-dark.svg)](mailto:thinhleminh201@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./images/linkedin-light.svg)](https://linkedin.com/in/thinhle201#gh-light-mode-only)
 [![website](./images/linkedin-dark.svg)](https://linkedin.com/in/thinhle201#gh-dark-mode-only)
