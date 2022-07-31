@@ -20,14 +20,14 @@
 
 ### Connect with me:
 
-[(./images/mail-light.svg)](mailto:thinhleminh201@gmail.com#gh-light-mode-only)
-[(./images/mail-dark.svg)](mailto:thinhleminh201@gmail.com#gh-dark-mode-only)
+[![gmail](./images/mail-light.svg)](mailto:thinhleminh201@gmail.com#gh-light-mode-only)
+[![gmail](./images/mail-dark.svg)](mailto:thinhleminh201@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[(./images/linkedin-light.svg)](https://linkedin.com/in/thinhle201#gh-light-mode-only)
-[(./images/linkedin-dark.svg)](https://linkedin.com/in/thinhle201#gh-dark-mode-only)
+[![linked](./images/linkedin-light.svg)](https://linkedin.com/in/thinhle201#gh-light-mode-only)
+[![linkedin](./images/linkedin-dark.svg)](https://linkedin.com/in/thinhle201#gh-dark-mode-only)
 &nbsp;&nbsp;
-[(./images/twitter-light.svg)](https://twitter.com/thinhle201#gh-light-mode-only)
-[(./images/twitter-dark.svg)](https://twitter.com/thinhle201#gh-dark-mode-only)
+[![twitter](./images/twitter-light.svg)](https://twitter.com/thinhle201#gh-light-mode-only)
+[![twitter](./images/twitter-dark.svg)](https://twitter.com/thinhle201#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -45,5 +45,6 @@
 [<img align="left" alt="Terminal" width="26px" src="./images/terminal-light.svg" />](#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./images/terminal-dark.svg" />](#gh-dark-mode-only)
 
+[gmail]: thinhleminh201@gmail.com
 [linkedin]: https://linkedin.com/in/thinhle201
 [twitter]: https://twitter.com/thinhle201
