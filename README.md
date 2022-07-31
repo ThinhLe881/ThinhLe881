@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other software developers 🤝
 - 🥅 2022 Goals: Learn more about web development 🕸️ and cloud computing ☁️
-- 📄 Know about my experiences 👉 **[Resume](https://drive.google.com/file/d/1Y3MgFCz6nOeWuqXlWm-U1yRVx3JNJ2Nf/view?usp=sharing)** 😎
+- 📄 Know about my experiences 👉 **[Resume](https://drive.google.com/file/d/1Y3MgFCz6nOeWuqXlWm-U1yRVx3JNJ2Nf/view?usp=sharing)** ⭐
 
 ### Connect with me:
 
