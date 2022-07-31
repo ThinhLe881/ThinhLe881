@@ -11,12 +11,12 @@
 &nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## I'm passionate in software development and data science!!
+## I'm passionate in software development and data science !!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Learn more about web development and cloud computing
-- 📄 Know about my experiences --> **[Resume](https://drive.google.com/file/d/1Y3MgFCz6nOeWuqXlWm-U1yRVx3JNJ2Nf/view?usp=sharing)**
+- 🌱 I’m currently learning everything 😂
+- 👯 I’m looking to collaborate with other software developers 🤝
+- 🥅 2022 Goals: Learn more about web development 🕸️ and cloud computing ☁️
+- 📄 Know about my experiences 👉 **[Resume](https://drive.google.com/file/d/1Y3MgFCz6nOeWuqXlWm-U1yRVx3JNJ2Nf/view?usp=sharing)** 😎
 
 ### Connect with me:
 
