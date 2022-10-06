@@ -15,8 +15,8 @@
 
 - 🌱 I’m currently learning computer vision and data mining
 - 🤝 I’m looking to collaborate with other software developers
-- ⭐ 2022 Goals: Learn more about web development and computer vision
-- 📄 Know about my experiences 👉 **[Resume](https://drive.google.com/file/d/13dPaCbbHW4NL0Xh0ttoptscKba4g_9IS/view?usp=sharing)**
+- ⭐ 2022 Goals: Learn more about data analytics and computer vision
+- 🏆 Know about my experiences 👉 **[Resume](https://drive.google.com/file/d/13dPaCbbHW4NL0Xh0ttoptscKba4g_9IS/view?usp=sharing)**
 
 ### Connect with me:
 
