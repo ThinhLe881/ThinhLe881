@@ -2,9 +2,9 @@
 
 ## I'm passionate in software development and data science !!
 
--   🌱 I’m currently learning computer vision and data mining
+-   🌱 I’m currently learning embedded system and computer vision
 -   🤝 I’m looking to collaborate with other software developers
--   ⭐ 2023 Goals: Learn more about embedded system and computer vision
+-   ⭐ 2023 Goals: Learn more about data science and cloud computing
 -   🏆 Know about my experiences 👉 **[Resume](https://drive.google.com/file/d/1IOkirvTqvCO1MRerPbS6xfA4IPl1_9Fm/view?usp=sharing)**
 
 ### Connect with me:
