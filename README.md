@@ -1,10 +1,10 @@
 # Hi there, I'm Thinh 👋
 
-## I'm passionate in software development and data science !!
+## I'm passionate about software development and data science !!
 
--   🌱 I’m currently learning embedded system and computer vision
+-   🌱 I’m currently learning embedded systems and computer vision
 -   🤝 I’m looking to collaborate with other software developers
--   ⭐ 2023 Goals: Learn more about data science and cloud computing
+-   ⭐ 2024 Goals: Learn more about data science and cloud computing
 -   🏆 Know about my experiences 👉 **[Resume](https://drive.google.com/file/d/1IOkirvTqvCO1MRerPbS6xfA4IPl1_9Fm/view?usp=sharing)**
 
 ### Connect with me:
