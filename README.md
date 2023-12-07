@@ -5,7 +5,7 @@
 -   🌱 I’m currently learning embedded systems and computer vision
 -   🤝 I’m looking to collaborate with other software developers
 -   ⭐ 2024 Goals: Learn more about data science and cloud computing
--   🏆 Know about my experiences 👉 **[Resume](https://drive.google.com/file/d/1IOkirvTqvCO1MRerPbS6xfA4IPl1_9Fm/view?usp=sharing)**
+-   🏆 Know about my experiences 👉 **[Resume](https://drive.google.com/file/d/1YY_a_ThKjinK-N4aLAnVa3JVmYau3PC7/view?usp=sharing)**
 
 ### Connect with me:
 
