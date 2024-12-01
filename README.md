@@ -24,6 +24,8 @@
     <code><img alt='CSS3' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'></code>
     <!-- <code><img alt='Dart' src='https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white'></code> -->
     <code><img alt='Bash' src='https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white'></code>
+</div>
+<div align="center">
     <code><img alt='Arduino' src='https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'></code>
     <code><img alt='Qt' src='https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white'></code>
     <code><img alt='NumPy' src='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white'></code>
@@ -40,6 +42,8 @@
     <!-- <code><img alt='Bootstrap' src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white'></code>
     <code><img alt='Tailwind' src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'></code>
     <code><img alt='Flutter' src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white'></code> -->
+</div>
+<div align="center">
     <code><img alt='Firebase' src='https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white'></code>
     <code><img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'></code>
     <code><img alt='SQLite' src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white'></code>
