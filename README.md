@@ -1,6 +1,6 @@
 # Hi there, I'm Thinh 👋
 
-## I'm passionate in software development and data science !!
+## I'm passionate about software development and data science !!
 
 -   🤝 I’m looking to collaborate with other software developers
 -   ⭐ 2024 Goals: Learn more about embedded system and computer vision
