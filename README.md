@@ -19,10 +19,10 @@
     <code><img alt='C' src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white'></code>
     <code><img alt='C++' src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white'></code>
     <code><img alt='JS' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'></code>
-    <!-- <code><img alt='TS' src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'></code> -->
+    <code><img alt='TS' src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'></code>
     <code><img alt='HTML5' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'></code>
     <code><img alt='CSS3' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'></code>
-    <!-- <code><img alt='Dart' src='https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white'></code> -->
+    <code><img alt='Dart' src='https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white'></code>
     <code><img alt='Bash' src='https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white'></code>
 </div>
 <div align="center">
@@ -37,12 +37,12 @@
     <code><img alt='Flask' src='https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white'></code>
     <code><img alt='Jinja' src='https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black'></code>
     <code><img alt='jQuery' src='https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white'></code>
-    <!-- <code><img alt='React' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'></code>
-    <code><img alt='Vue.js' src='https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D'></code> -->
+    <code><img alt='React' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'></code>
+    <code><img alt='Vue.js' src='https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D'></code>
     <code><img alt='Express.js' src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'></code>
-    <!-- <code><img alt='Bootstrap' src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white'></code>
+    <code><img alt='Bootstrap' src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white'></code>
     <code><img alt='Tailwind' src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'></code>
-    <code><img alt='Flutter' src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white'></code> -->
+    <code><img alt='Flutter' src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white'></code>
 </div>
 <div align="center">
     <code><img alt='Firebase' src='https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white'></code>
