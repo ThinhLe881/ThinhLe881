@@ -1,4 +1,4 @@
-# Hi there, I'm Thinh 👋
+# Hi, I'm Thinh 👋
 
 ## I'm passionate about software development and data science !!
 
