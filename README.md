@@ -45,6 +45,7 @@
     <code><img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'></code>
     <code><img alt='SQLite' src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white'></code>
     <code><img alt='Postgres' src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'></code>
+    <code><img alt='Google Cloud' src='https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white'></code>
 </div>
 
 [gmail]: thinhleminh201@gmail.com
