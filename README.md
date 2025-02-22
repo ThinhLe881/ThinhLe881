@@ -3,7 +3,6 @@
 ## I'm passionate about software development and data science !!
 
 -   🤝 I’m looking to collaborate with other software developers
--   🏆 Know about my experiences 👉 **[LinkedIn](https://www.linkedin.com/in/thinhle201)**
 
 ### Connect with me:
 
