@@ -1,6 +1,6 @@
 # Hi, I'm Thinh 👋
 
-## I'm passionate about software development and data science !!
+## I love coding !!
 
 -   🤝 I’m looking to collaborate with other software developers
 
