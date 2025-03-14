@@ -29,8 +29,6 @@
     <code><img alt='Jinja' src='https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black'></code>
     <code><img alt='React' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'></code>
     <code><img alt='Express.js' src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'></code>
-    <code><img alt='Bootstrap' src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white'></code>
-    <code><img alt='Tailwind' src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'></code>
     <code><img alt='Flutter' src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white'></code>
     <code><img alt='Firebase' src='https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white'></code>
     <code><img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'></code>
