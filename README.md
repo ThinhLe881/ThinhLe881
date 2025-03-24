@@ -1,7 +1,5 @@
 # Hi, I'm Thinh 👋
 
-## I love coding !!
-
 -   🤝 I’m looking to collaborate with other software developers
 
 ### Connect with me:
