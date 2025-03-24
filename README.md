@@ -1,6 +1,6 @@
 # Hi, I'm Thinh 👋
 
--   🤝 I’m looking to collaborate with other software developers
+🤝 I’m looking to collaborate with other software developers
 
 ### Connect with me:
 
