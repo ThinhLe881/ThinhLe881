@@ -13,7 +13,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,bash" />
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,bash" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=qt,numpy,pandas,opencv,pytorch,flask,jinja,react,node,flutter" />
   </a>
 </p>
 
