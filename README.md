@@ -17,7 +17,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=qt,numpy,pandas,opencv,pytorch,flask,react,nodejs,flutter" />
+    <img src="https://skillicons.dev/icons?i=qt,opencv,pytorch,flask,react,nodejs,flutter" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,mongodb,firebase,postgres,gcp,linux,arduino" />
   </a>
 </p>
 
