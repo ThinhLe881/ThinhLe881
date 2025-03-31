@@ -14,8 +14,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,bash" />
   </a>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=qt,numpy,pandas,opencv,pytorch,flask,jinja,react,node,flutter" />
+    <img src="https://skillicons.dev/icons?i=qt,numpy,pandas,opencv,pytorch,flask,react,nodejs,flutter" />
   </a>
 </p>
 
