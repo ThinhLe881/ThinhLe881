@@ -25,5 +25,5 @@
   </a>
 </p>
 
-[gmail]: thinhleminh201@gmail.com
+[gmail]: thinhle8180@gmail.com
 [linkedin]: https://linkedin.com/in/thinhle201
