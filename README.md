@@ -4,9 +4,8 @@
 
 ### Connect with me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[gmail])
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)][indeed]
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:[gmail])
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)][linkedin]
 
 ### Languages and Tools:
 
@@ -28,4 +27,3 @@
 
 [gmail]: thinhleminh201@gmail.com
 [linkedin]: https://linkedin.com/in/thinhle201
-[indeed]: https://indeed.com
