@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,bash,qt,opencv,pytorch,flask,react,nodejs,flutter,sqlite,mongodb,firebase,postgres,gcp,linux,arduino,raspberrypi&perline=11" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,bash,qt,opencv,pytorch,flask,react,expressjs,flutter,sqlite,mongodb,firebase,postgres,gcp,linux,arduino,raspberrypi&perline=11" />
   </a>
 </p>
 
