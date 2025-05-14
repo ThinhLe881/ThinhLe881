@@ -1,7 +1,7 @@
 # Hi, I'm Thinh 👋
 
 - 🤝 I’m looking to collaborate with other software developers
-- 🏆 Know about my experiences 👉 *[Resume](https://drive.google.com/file/d/1POmH96P8AJedv6FGUBXntA-lVIXyuPoC/view?usp=sharing)*
+- 🏆 Know about my experiences 👉 *[Resume](https://drive.google.com/file/d/1gIur8Lh62bO130HvnV_FxZ9NiHCKlUwW/view?usp=sharing)*
 
 ### Connect with me:
 
