@@ -1,14 +1,17 @@
-# Hi, I'm Thinh 👋
+# Hello! 👋
 
-- 🤝 I’m looking to collaborate with other software developers
-- 🏆 Know about my experiences 👉 *[Resume](https://drive.google.com/file/d/1gIur8Lh62bO130HvnV_FxZ9NiHCKlUwW/view?usp=sharing)*
+### About me ☺️
 
-### Connect with me:
+I'm Thinh, enthusiastic coder from Canada
+
+-   🏆 Know about my experiences 👉 _[Resume](https://drive.google.com/file/d/1gIur8Lh62bO130HvnV_FxZ9NiHCKlUwW/view?usp=sharing)_
+
+### Connect with me 🤝
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:[gmail])
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)][linkedin]
 
-### Languages and Tools:
+### Technologies 💻
 
 <p align="center">
   <a href="https://skillicons.dev">
